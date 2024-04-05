@@ -1,8 +1,6 @@
 def change():
     expense = 23.75
     money = 100
-    expense = 23.75
-    money = 100
     vuelto=(money-expense)
     print("Ingresar gasto:")
     print(expense)
